@@ -1,8 +1,8 @@
-🚀 Agent Skills Hub
+## 🚀 Agent Skills Hub
 
 A unified repository for developing, managing, versioning, and distributing Agent Skills, with cross-platform installation support for Codex, Cursor, Claude, and project-level integrations.
 
-📌 项目定位
+## 📌 项目定位
 
 Agent Skills Hub 是一个 可复用 AI 技能管理仓库，用于统一管理：
 
